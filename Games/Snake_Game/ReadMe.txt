@@ -1,5 +1,3 @@
-Engineering Science
-First Year Computing Laboratory
 Snake Game
 To play run snake_game_main.m
 answer questions then use arrow keys to control movement
